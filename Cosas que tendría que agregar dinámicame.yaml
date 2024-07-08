@@ -1,0 +1,12 @@
+Cosas que tendría que agregar dinámicamente:
+al HTML:
+rows
+boton 
+
+al js:
+los queryselectors correspondientes a cada casilla del nuevo row
+el queryselector del botón
+Objeto nuevo con propiedades
+onclick del botón con formato tipo {nombre persona nueva}Button.onclick= ()=> {personSelector(n);}; este n aumenta cada vez que se agrega una persona nueva
+case n en el switch(position)
+Dentro de function buttonActivationRemover() agregar botón nuevo al const button

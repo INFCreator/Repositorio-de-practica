@@ -1,0 +1,7 @@
+I
+1.Las letras del medio me dicen el tipo de función de percepción y el tipo de función de juicio que están en las primeras dos posiciones. Las fortalezas. No me dicen las actitudes ni cual de las dos está de primero.
+2. La última letra me dice cual de las dos tiene actitud introvertida y cual de las dos tiene actitud extrovertida. si J la de percepción es introvertida y la de juicio extrovertida. Si P ocurre lo contrario
+3. La primera letra pone como dominante aquella que tiene la actitud correspondiente a la primera letra
+4. a partir de las polaridades construyo el resto del function stack.
+
+
